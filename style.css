@@ -1,0 +1,18 @@
+body {
+
+    background-color: #504099;
+    font-family: 'Viga', sans-serif;
+    color: #f5f5f5;
+}
+
+audio{
+    background: #f5f5f5;
+    width: 50%;
+    border-radius: 20px;
+}
+
+.container {
+    margin-left: 450px;
+    margin-top: 50px;
+
+}
